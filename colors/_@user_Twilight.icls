@@ -1,15 +1,28 @@
 <scheme name="_@user_Twilight" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.4166667" />
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2017-06-01T08:39:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-06-01T09:49:25</property>
+    <property name="modified">2017-06-06T22:26:21</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="24" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </console-font>
   <colors>
     <option name="CARET_COLOR" value="a7a7a7" />
     <option name="CARET_ROW_COLOR" value="3d3d3d" />
@@ -1139,6 +1152,9 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
+    <option name="PY.BRACKETS">
+      <value />
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="dad085" />
@@ -1185,6 +1201,9 @@
       <value>
         <option name="FOREGROUND" value="cda869" />
       </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value />
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
