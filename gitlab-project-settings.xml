@@ -1,0 +1,46 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://kwgitlab.kitware.com" />
+    <option name="token" value="BiwsyxnH2U1miD1LEPkm" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://kwgitlab.kitware.com/john.moeller/c3d-wrap.git" />
+          <option name="name" value="c3d-wrap" />
+          <option name="namespace" value="john.moeller" />
+          <option name="sshUrl" value="git@kwgitlab.kitware.com:john.moeller/c3d-wrap.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://kwgitlab.kitware.com/john.moeller/code-sync.git" />
+          <option name="name" value="code-sync" />
+          <option name="namespace" value="john.moeller" />
+          <option name="sshUrl" value="git@kwgitlab.kitware.com:john.moeller/code-sync.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://kwgitlab.kitware.com/john.moeller/e2at-graph-retrieval.git" />
+          <option name="name" value="e2at-graph-retrieval" />
+          <option name="namespace" value="john.moeller" />
+          <option name="sshUrl" value="git@kwgitlab.kitware.com:john.moeller/e2at-graph-retrieval.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://kwgitlab.kitware.com/john.moeller/memex-info.git" />
+          <option name="name" value="memex-info" />
+          <option name="namespace" value="john.moeller" />
+          <option name="sshUrl" value="git@kwgitlab.kitware.com:john.moeller/memex-info.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://kwgitlab.kitware.com/john.moeller/smqtk-fork.git" />
+          <option name="name" value="smqtk-fork" />
+          <option name="namespace" value="john.moeller" />
+          <option name="sshUrl" value="git@kwgitlab.kitware.com:john.moeller/smqtk-fork.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://kwgitlab.kitware.com/john.moeller/twostream.git" />
+          <option name="name" value="twostream" />
+          <option name="namespace" value="john.moeller" />
+          <option name="sshUrl" value="git@kwgitlab.kitware.com:john.moeller/twostream.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
