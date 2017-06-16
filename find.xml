@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[fishcorn-smqtk] - .../python/smqtk/algorithms/nn_index/mrpt.py'" />
-    <option name="defaultScopeName" value="File '[fishcorn-smqtk] - .../python/smqtk/algorithms/nn_index/mrpt.py'" />
-    <option name="SEARCH_SCOPE" value="File '[fishcorn-smqtk] - .../python/smqtk/algorithms/nn_index/mrpt.py'" />
+    <option name="customScope" value="File '[fishcorn-smqtk] - /home/john/fishcorn-smqtk/python/smqtk/algorithms/nn_index/mrpt.py'" />
+    <option name="defaultScopeName" value="File '[fishcorn-smqtk] - /home/john/fishcorn-smqtk/python/smqtk/algorithms/nn_index/mrpt.py'" />
+    <option name="SEARCH_SCOPE" value="File '[fishcorn-smqtk] - /home/john/fishcorn-smqtk/python/smqtk/algorithms/nn_index/mrpt.py'" />
   </component>
 </application>
