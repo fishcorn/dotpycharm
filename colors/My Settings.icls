@@ -4,21 +4,34 @@
     <property name="created">2017-07-04T08:45:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-04T08:45:26</property>
+    <property name="modified">2017-07-04T09:26:05</property>
     <property name="originalScheme">Twilight copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="24" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="30" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="30" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <colors>
     <option name="CARET_COLOR" value="a7a7a7" />
-    <option name="CARET_ROW_COLOR" value="1b1b1b" />
+    <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
-    <option name="GUTTER_BACKGROUND" value="141414" />
+    <option name="GUTTER_BACKGROUND" value="262626" />
     <option name="INDENT_GUIDE" value="4e4e4e" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f8" />
     <option name="SELECTED_INDENT_GUIDE" value="4e4e4e" />
-    <option name="SELECTION_BACKGROUND" value="3c3f42" />
+    <option name="SELECTION_BACKGROUND" value="46494d" />
     <option name="WHITESPACES" value="4e4e4e" />
   </colors>
   <attributes>
@@ -259,7 +272,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="6ae96a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -404,11 +416,6 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
-      </value>
-    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
@@ -417,12 +424,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="9b703f" />
+        <option name="FOREGROUND" value="cc9b66" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="cf6a4c" />
+        <option name="FOREGROUND" value="cc9b66" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -448,25 +455,11 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
-      </value>
-    </option>
-    <option name="DEFAULT_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
-      </value>
-    </option>
-    <option name="DEFAULT_GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="7587a6" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="9b703f" />
+        <option name="FOREGROUND" value="cc9b66" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -474,24 +467,9 @@
         <option name="FOREGROUND" value="7587a6" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_METHOD">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
-      </value>
-    </option>
-    <option name="DEFAULT_INTERFACE_NAME">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
-      </value>
-    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cda869" />
-      </value>
-    </option>
-    <option name="DEFAULT_LABEL">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -502,7 +480,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="7587a6" />
+        <option name="FOREGROUND" value="cc9b66" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -522,7 +500,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="7587a6" />
+        <option name="FOREGROUND" value="8296b3" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -538,7 +516,8 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="9b703f" />
+        <option name="FOREGROUND" value="cc9b66" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -1138,6 +1117,12 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
+    <option name="PY.BRACES">
+      <value />
+    </option>
+    <option name="PY.BRACKETS">
+      <value />
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="dad085" />
@@ -1145,23 +1130,13 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="9b703f" />
+        <option name="FOREGROUND" value="cc9b66" />
       </value>
     </option>
-    <option name="PY.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
-      </value>
-    </option>
-    <option name="PY.DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="5f5a60" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="9b703f" />
+        <option name="FOREGROUND" value="cc9b66" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -1169,15 +1144,11 @@
         <option name="FOREGROUND" value="f9ee98" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PY.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
     <option name="PY.OPERATION_SIGN">
@@ -1185,9 +1156,19 @@
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="cc99cc" />
+      </value>
+    </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="dad085" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="c8defa" />
       </value>
     </option>
     <option name="PY.STRING">
@@ -1195,9 +1176,9 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
-    <option name="PY.VALID_STRING_ESCAPE">
+    <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="cf6a4c" />
+        <option name="FOREGROUND" value="80e0e0" />
       </value>
     </option>
     <option name="REST.EXPLICIT">
@@ -1563,8 +1544,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f8f8f8" />
-        <option name="BACKGROUND" value="141414" />
+        <option name="FOREGROUND" value="d9d9d9" />
+        <option name="BACKGROUND" value="262626" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
