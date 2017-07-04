@@ -4,12 +4,12 @@
     <property name="created">2017-07-04T08:45:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-04T09:26:05</property>
+    <property name="modified">2017-07-04T09:39:48</property>
     <property name="originalScheme">Twilight copy</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="30" />
+    <option name="EDITOR_FONT_SIZE" value="28" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
@@ -21,7 +21,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
   </console-font>
   <colors>
     <option name="CARET_COLOR" value="a7a7a7" />
@@ -1168,7 +1168,8 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="c8defa" />
+        <option name="FOREGROUND" value="95accc" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="PY.STRING">
@@ -1191,11 +1192,7 @@
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
-    <option name="REST.FIXED">
-      <value>
-        <option name="BACKGROUND" value="48485f" />
-      </value>
-    </option>
+    <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INLINE">
       <value>
         <option name="BACKGROUND" value="273627" />
@@ -1631,19 +1628,10 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
-    <option name="YAML_SCALAR_KEY">
-      <value>
-        <option name="FOREGROUND" value="9b703f" />
-      </value>
-    </option>
     <option name="YAML_SCALAR_LIST">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_STRING">
-      <value>
-        <option name="FOREGROUND" value="8f9d6a" />
+        <option name="BACKGROUND" value="262626" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
@@ -1654,11 +1642,6 @@
     <option name="YAML_SIGN">
       <value>
         <option name="FOREGROUND" value="cda869" />
-      </value>
-    </option>
-    <option name="YAML_TEXT">
-      <value>
-        <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
   </attributes>
