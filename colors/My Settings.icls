@@ -1,27 +1,27 @@
 <scheme name="My Settings" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.4166667" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-07-04T08:45:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-07-04T09:39:48</property>
+    <property name="modified">2017-07-20T17:17:34</property>
     <property name="originalScheme">Twilight copy</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="28" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="30" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
   </console-font>
   <colors>
     <option name="CARET_COLOR" value="a7a7a7" />
