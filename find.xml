@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[inside-smqtk] - .../python/smqtk/tests/algorithms/nn_index/test_NNI_FAISS.py'" />
     <option name="defaultScopeName" value="File '[inside-smqtk] - .../python/smqtk/tests/algorithms/nn_index/test_NNI_FAISS.py'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[inside-smqtk] - .../python/smqtk/tests/algorithms/nn_index/test_NNI_FAISS.py'" />
   </component>
 </application>
